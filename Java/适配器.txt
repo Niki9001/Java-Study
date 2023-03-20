@@ -1,0 +1,9 @@
+监听器接口		适配器
+ActionListener		NA
+AdjustmentListener	NA
+ContainerListener	ContainerAdapter
+FocusListener		FocusAdapter
+ItemListener		NA
+KeyListener		KeyAdapter
+MouseListener		MouseAdapter
+WindowListener		WindowAdapter

@@ -1,0 +1,10 @@
+标签（JLabel）
+作用：在窗体上添加文字或图片
+设置
+*设置大小setSize(int width, int height)
+*设置位置setLocation(int x, int y)
+*标签通常起提示作用，很少给标签添加监听器
+*设置字体setFont（Font font）
+*设置图片setIcon(Icon icon)
+*设置鼠标指针形状setCursor（Cursor cursor）
+*设置Tip文本setToolTipText（String text）
